@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/RobyFerro/go-web-framework/register"
+	"github.com/DotsCore/go-web-framework/register"
 	"github.com/go-git/go-git/v5"
 )
 
@@ -77,7 +77,7 @@ func (c *ServiceCreate) reset_git() error {
 
 // Updates Go-Web Framework to the latest minor version
 func (c *ServiceCreate) update() error {
-	cmd := exec.Command("go", "get", "-u", "github.com/RobyFerro/go-web-framework")
+	cmd := exec.Command("go", "get", "-u", "github.com/DotsCore/go-web-framework")
 	cmd.Dir = c.Args
 
 	return cmd.Run()

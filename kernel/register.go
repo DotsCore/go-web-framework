@@ -1,8 +1,8 @@
 package kernel
 
 import (
-	"github.com/RobyFerro/go-web-framework/cli"
-	"github.com/RobyFerro/go-web-framework/register"
+	"github.com/DotsCore/go-web-framework/cli"
+	"github.com/DotsCore/go-web-framework/register"
 )
 
 var (
