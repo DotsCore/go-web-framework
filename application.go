@@ -6,8 +6,8 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/RobyFerro/go-web-framework/kernel"
-	"github.com/RobyFerro/go-web-framework/register"
+	"github.com/DotsCore/go-web-framework/kernel"
+	"github.com/DotsCore/go-web-framework/register"
 	"github.com/common-nighthawk/go-figure"
 )
 

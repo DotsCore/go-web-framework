@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/RobyFerro/go-web-framework/register"
+	"github.com/DotsCore/go-web-framework/register"
 
 	"github.com/jinzhu/gorm"
 )

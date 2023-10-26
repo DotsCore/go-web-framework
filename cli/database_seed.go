@@ -2,9 +2,10 @@ package cli
 
 import (
 	"fmt"
-	"github.com/RobyFerro/go-web-framework/register"
 	"reflect"
 	"strings"
+
+	"github.com/DotsCore/go-web-framework/register"
 
 	"github.com/jinzhu/gorm"
 )

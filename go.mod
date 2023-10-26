@@ -1,4 +1,4 @@
-module github.com/RobyFerro/go-web-framework
+module github.com/DotsCore/go-web-framework
 
 go 1.16
 

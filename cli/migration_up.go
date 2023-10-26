@@ -3,12 +3,13 @@ package cli
 import (
 	"crypto/sha256"
 	"fmt"
-	"github.com/RobyFerro/go-web-framework/register"
-	"github.com/RobyFerro/go-web-framework/tool"
 	"log"
 	"os"
 	"path/filepath"
 	"strings"
+
+	"github.com/DotsCore/go-web-framework/register"
+	"github.com/DotsCore/go-web-framework/tool"
 
 	"github.com/jinzhu/gorm"
 )

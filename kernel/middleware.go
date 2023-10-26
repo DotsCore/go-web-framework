@@ -1,7 +1,7 @@
 package kernel
 
 import (
-	"github.com/RobyFerro/go-web-framework/register"
+	"github.com/DotsCore/go-web-framework/register"
 	"github.com/gorilla/mux"
 )
 
